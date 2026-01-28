@@ -4,6 +4,11 @@
 
 A single-file Python implementation for generating synthetic datasets comparing standard Q-learning with eligibility traces **[Q(λ)]** against **Cooperative Q-learning [CQ(λ)]**, demonstrating the benefits of performance-triggered human intervention in reinforcement learning.
 
+## Datasets
+
+The datasets are available on HuggingFace at [https://github.com/DBbun/motoman-up6-cq-lambda-reinforcement-learning_v1.0](https://huggingface.co/datasets/DBbun/motoman-up6-cq-lambda-reinforcement-learning_v1.0)
+
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
