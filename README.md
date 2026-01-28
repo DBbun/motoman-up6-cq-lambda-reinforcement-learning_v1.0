@@ -19,7 +19,6 @@ A single-file Python implementation for generating synthetic datasets comparing 
 - [Algorithm Details](#algorithm-details)
 - [Results](#results)
 - [Citation](#citation)
-- [License](#license)
 
 ## 🎯 Overview
 
@@ -473,9 +472,6 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 - [ ] Visualization dashboard for live monitoring
 - [ ] Support for parallel episode generation
 
-## 📝 License
-
-This project is licensed for research and educational purposes. See [LICENSE](LICENSE) for details.
 
 ## 🙏 Acknowledgments
 
