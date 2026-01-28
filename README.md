@@ -440,7 +440,7 @@ If you use this code or dataset in your research, please cite:
 
 ```bibtex
 @inproceedings{kartoun2006cq,
-  title={CQ($\lambda$): Cooperative reinforcement learning based on SARSA($\lambda$)},
+  title={Human-robot collaborative learning system for inspection},
   author={Kartoun, Uri and Stern, Helman and Edan, Yael},
   booktitle={IEEE International Conference on Systems, Man and Cybernetics},
   pages={3207--3212},
