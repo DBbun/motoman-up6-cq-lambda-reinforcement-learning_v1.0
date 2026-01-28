@@ -1,8 +1,5 @@
 # CQ(λ) Synthetic Dataset Generator
 
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![Code style: clean](https://img.shields.io/badge/code%20style-clean-brightgreen.svg)](https://github.com/psf/black)
-
 > **Human-in-the-Loop Reinforcement Learning for Robotic Manipulation**
 
 A single-file Python implementation for generating synthetic datasets comparing standard Q-learning with eligibility traces **[Q(λ)]** against **Cooperative Q-learning [CQ(λ)]**, demonstrating the benefits of performance-triggered human intervention in reinforcement learning.
